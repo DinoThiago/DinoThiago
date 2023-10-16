@@ -1,4 +1,4 @@
-- 👋 Hi, I’m  Thiago Claudino
+- 👋 Hi, I’m  Thiago Dino
 - 👀 I’m interested in  desenvolvimento Front-End
  🌱 I’m currently learning  Tecnologias Fron-End
 - 💞️ I’m looking to collaborate on  empresas e projetos Web
